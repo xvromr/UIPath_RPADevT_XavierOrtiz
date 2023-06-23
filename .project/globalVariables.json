@@ -1,0 +1,26 @@
+[
+  {
+    "Constant": false,
+    "Name": "string_SinResultados",
+    "TypeFullyQualifiedName": "System.String, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+    "UnresolvedTypeFullyQualifiedName": null,
+    "Expression": "\":: No hay teléfonos con estos datos ::\"",
+    "IsLiteral": false
+  },
+  {
+    "Constant": false,
+    "Name": "string_Path",
+    "TypeFullyQualifiedName": "System.String, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+    "UnresolvedTypeFullyQualifiedName": null,
+    "Expression": "\"Documentos\\\"",
+    "IsLiteral": false
+  },
+  {
+    "Constant": false,
+    "Name": "string_URL",
+    "TypeFullyQualifiedName": "System.String, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e",
+    "UnresolvedTypeFullyQualifiedName": null,
+    "Expression": "\"https://micnt.com.ec/cntapp/guia104/php/guia_cntat.php?hflagsubmit=0&cmbcriterio=3&cmbprov2=17&txtusuarioapellido=&txtusuarionombre=&captchaSelection=\"",
+    "IsLiteral": false
+  }
+]

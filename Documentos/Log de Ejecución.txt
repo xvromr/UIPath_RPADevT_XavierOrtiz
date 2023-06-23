@@ -1,0 +1,8 @@
+Estado: Ingresar Apellido 23/06/2023:13:56:37
+Estado: Ingresar Provincia 23/06/2023:13:56:40
+Estado: Ingresar Correo 23/06/2023:13:56:44
+Estado: Acceso CNT 23/06/2023:13:56:51
+Estado: Acceso CNT 23/06/2023:13:56:57
+Estado: Creación Archivo Excel 23/06/2023:13:57:24
+Estado: Envar Correo 23/06/2023:13:57:27
+Estado: Fin del Flujo 23/06/2023:13:57:27
